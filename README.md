@@ -4,9 +4,9 @@
 
 
 - 👀 I’m interested in Software development  and electrical engineering
-- 🌱 I’m currently learning Software engineering @[alx-africa](https://www.alxafrica.com)
+- 🌱 I’m currently learning Software engineering @[a@lx-africa](https://www.alxafrica.com)
 - 💞️ I’m looking to collaborate on programming courses
-- 📫 Reachme on github @[Jesulayomy](https://github.com/Jesulayomy), twitter [@Jesulayomi11](https://twitter.com/Jesulayomi11), linkedin [@Aina Jesulayomi](https://www.linkedin.com/in/jesulayomi-aina-27389524a/)
+- 📫 Reachme on github @[J@esulayomy](https://github.com/Jesulayomy), twitter [@Jesulayomi11](https://twitter.com/Jesulayomi11), linkedin [@Aina Jesulayomi](https://www.linkedin.com/in/jesulayomi-aina-27389524a/)
 
 <!---
 Jesulayomy/Jesulayomy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
