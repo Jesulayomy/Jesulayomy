@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Jesulayomi
-![GitHub User's stars](https://img.shields.io/github/stars/Jesulayomy?style=social)	![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJesulayomi11)
+![GitHub User's stars](https://img.shields.io/github/stars/Jesulayomy?style=social)	![https://twitter.com/Jesulayomi11](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJesulayomi11)
 ![GitHub followers](https://img.shields.io/github/followers/Jesulayomy?style=social)
 
 
