@@ -41,8 +41,8 @@
 ![ReactJS](https://img.shields.io/badge/ReactJS-4FC08D?style=flat-square&logo=React&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-181717?style=flat-square&logo=NGINX&logoColor=white)
-![Digital Ocean](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=DigitalOcean&logoColor=white)
-![Vim](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Vim&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/DigitalOcean-3776AB?style=flat-square&logo=DigitalOcean&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-181717?style=flat-square&logo=Vim&logoColor=white)
 
 
 <div align="center">
