@@ -1,4 +1,10 @@
-# 👋 Hi, I’m Jesulayomi
+[![Hi, Im Jesulayomi](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Jesulayomi)](https://git.io/typing-svg)
+<!-- <div align="center">
+  <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/.svg"/>
+  <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/Jesulayomy?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
+  <img loading="lazy" style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
+</div> --!>
+
 ![GitHub User's stars](https://img.shields.io/github/stars/Jesulayomy?style=social)	![https://twitter.com/Jesulayomi11](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJesulayomi11)  
 
 <div align="center">
