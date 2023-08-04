@@ -20,8 +20,12 @@
 
 </div>
 
-![Jesulayomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesulayomy&show_icons=true&theme=midnight-purple)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesulayomy&langs_count=8&theme=midnight-purple)  
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jesulayomy&show_icons=true&theme=midnight-purple" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesulayomy&langs_count=8&theme=midnight-purple&layout=compact&card_width=320" />
+
+
+![Jesulayomi's GitHub stats]()  
+![Top Langs]()  
 
 
 ### Languages
