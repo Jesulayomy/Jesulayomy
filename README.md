@@ -1,6 +1,14 @@
-[![Hi, Im Jesulayomi](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Jesulayomi)](https://git.io/typing-svg)
+<div align="center">
 
-![GitHub User's stars](https://img.shields.io/github/stars/Jesulayomy?style=social)	![https://twitter.com/Jesulayomi11](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJesulayomi11)  
+  <img src="https://readme-typing-svg.herokuapp.com?font=comic+sans+ms&size=32&duration=2000&pause=10000&color=7F5AF0&width=435&lines=👋+Hi%2C+I'm+Jesulayomi+Aina" alt="👋 Hi, I'm Jesulayomi Aina" />
+
+</div>
+
+<div align="center">
+  
+  ![Follower Count](https://img.shields.io/github/followers/jesulayomy?label=Followed+By&labelColor=16161A&color=7F5AF0) ![Visitors](https://visitcount.itsvg.in/api?id=Jesulayomy&label=Profile%20Views&color=1&pretty=false) ![GitHub User's stars](https://img.shields.io/github/stars/Jesulayomy?label=GitHub+Stars&labelColor=16161A&color=7F5AF0) 
+
+</div>
 
 <div align="center">
 
@@ -8,12 +16,11 @@
 
 </div>
 
+<br />
+
 <div align="center">
-
-  <h2>Tools I use</h2>  
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+sans+ms&size=28&duration=2000&pause=2999&color=7F5AF0&center=true&width=435&lines=Languages;Tools;Frameworks" alt="Languages, Tools and Frameworks" />
 </div>
-
 
 <div align="center">
   <img loading="lazy" height="40" width="40" title="Vim" src="https://cdn.simpleicons.org/vim/019733" alt="Vim icon" />
@@ -45,12 +52,16 @@
   <img loading="lazy" height="40" width="40" title="Markdown" src="https://cdn.simpleicons.org/markdown/7952B3" alt="markdown icon" />
 </div>
 
+<div align="center">
+  <h2 style="text-color: #7F5AF0">About Me</h2>
+</div>
 
 - :eyes: I'm interested in Software development and electrical engineering
 - :octocat: I’m currently learning Software engineering [@alx-africa](https://www.alxafrica.com)
-- :revolving_hearts: I'm looking to collaborate on programming courses
-- :mailbox_with_mail: Reachme on github [@Jesulayomy](https://github.com/Jesulayomy), twitter [@Jesulayomi11](https://twitter.com/Jesulayomi11), linkedin [@Jesulayomi A.](https://www.linkedin.com/in/jesulayomi-aina-27389524a/)  
+- :revolving_hearts: I'm looking to collaborate on open source projects and backend application developnet  
 - :school: My latest Project, [SCHub](https://www.schub.me/explore) / [Repo](https://github.com/micloiser/SCHub)
+
+
 
 <div align="center">
   
@@ -61,34 +72,13 @@
 
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jesulayomy&show_icons=true&theme=midnight-purple" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesulayomy&langs_count=20&theme=midnight-purple&layout=compact&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesulayomy&langs_count=8&theme=midnight-purple&layout=compact&card_width=320" />
 </div>
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
-
-
-### Tools
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JQuery](https://img.shields.io/badge/JQuery-F7DF1E?style=flat-square&logo=jQuery&logoColor=white)
-![ReactJS](https://img.shields.io/badge/ReactJS-4FC08D?style=flat-square&logo=React&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-181717?style=flat-square&logo=NGINX&logoColor=white)
-![Digital Ocean](https://img.shields.io/badge/DigitalOcean-3776AB?style=flat-square&logo=DigitalOcean&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-181717?style=flat-square&logo=Vim&logoColor=white)
 
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=Jesulayomy&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)  
+  ![https://twitter.com/Jesulayomi11](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJesulayomi11)   
 
 </div>
 
@@ -98,6 +88,21 @@
 
 </div>
 
+<details>
+  <summary> Hello World </summary>
+</details>
+
+<details>
+  <summary> Hello World </summary>
+</details>
+
+<details>
+  <summary> Hello World </summary>
+</details>
+
+<details>
+  <summary> Hello World </summary>
+</details>
 
 <!---
 Jesulayomy/Jesulayomy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
