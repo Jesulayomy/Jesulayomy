@@ -7,6 +7,39 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 </div>
+<div align="center">
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/c/#A8B9CC" alt="C icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/cplusplus/#00599C" alt="C++ icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript/FFFFFF" alt="typescript icon"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFFFF" alt="javascript icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/FFFFFF" alt="react icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" alt="nodejs icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/python/FFFFFF" alt="Python icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//FFFFFF" alt="MySQL icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//FFFFFF" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/FFFFFF" alt="bootstrap icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/html5/FFFFFF" alt="html5 icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/css3/FFFFFF" alt="css3 icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/markdown/FFFFFF" alt="markdown icon" />
+</div>
+
+
 
 - :eyes: I'm interested in Software development and electrical engineering
 - :octocat: I’m currently learning Software engineering [@alx-africa](https://www.alxafrica.com)
@@ -20,13 +53,11 @@
 
 </div>
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jesulayomy&show_icons=true&theme=midnight-purple" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesulayomy&langs_count=8&theme=midnight-purple&layout=compact&card_width=320" />
 
-
-![Jesulayomi's GitHub stats]()  
-![Top Langs]()  
-
+<div align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jesulayomy&show_icons=true&theme=midnight-purple" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesulayomy&langs_count=20&theme=midnight-purple&layout=compact&card_width=320" />
+</div>
 
 ### Languages
 
