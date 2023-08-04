@@ -7,38 +7,42 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 </div>
+
 <div align="center">
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/c/#A8B9CC" alt="C icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/cplusplus/#00599C" alt="C++ icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript/FFFFFF" alt="typescript icon"/>
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFFFF" alt="javascript icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/FFFFFF" alt="react icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" alt="nodejs icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/python/FFFFFF" alt="Python icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//FFFFFF" alt="MySQL icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//FFFFFF" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org//" alt=" icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/FFFFFF" alt="bootstrap icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/html5/FFFFFF" alt="html5 icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/css3/FFFFFF" alt="css3 icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/markdown/FFFFFF" alt="markdown icon" />
+
+  <h2>Tools I use</h2>  
+
 </div>
 
+
+<div align="center">
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/c/A8B9CC" alt="C icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++ icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/git/F05032" alt="Git icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/github/181717" alt="GitHub icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/json/000000" alt="JSON icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/jquery/0769AD" alt="JQuery icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/letsencrypt/003A70" alt="Lets encrypt icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/digitalocean/0080FF" alt="DigitalOcean icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/namecheap/DE3723" alt="NameCheap icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/arduino/00878F" alt="Arduino icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/flask/000000" alt="Flask icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/vim/019733" alt="Vim icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual studio code icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript icon"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/61DAFB" alt="React icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="NodeJS icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/python/3776AB" alt="Python icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/puppet/FFAE1A" alt="Puppet icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash Shell icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/html5/E34F26" alt="html5 icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/css3/1572B6" alt="css3 icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/markdown/7952B3" alt="markdown icon" />
+</div>
 
 
 - :eyes: I'm interested in Software development and electrical engineering
