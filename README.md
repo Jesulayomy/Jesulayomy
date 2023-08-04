@@ -63,7 +63,7 @@
 
 - :brain: I'm interested in Software development and electrical engineering
 - 🌱 I’m currently learning Software engineering [@alx-africa](https://www.alxafrica.com)
-- 👯 I'm looking to collaborate on open source projects and backend application developnet  
+- 👯 I'm looking to collaborate on open source projects and backend application development ([Resume](https://drive.google.com/file/d/1g7nKuVH2v1ST59YTiUDpVsKtqJ8uQEU7/view?usp=sharing))  
 - ⚡ My latest Project, [SCHub](https://www.schub.me/explore) / [Repo](https://github.com/micloiser/SCHub)
 
 
