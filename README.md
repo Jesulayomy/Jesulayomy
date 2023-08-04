@@ -16,28 +16,29 @@
 
 
 <div align="center">
+  <img loading="lazy" height="40" width="40" title="Vim" src="https://cdn.simpleicons.org/vim/019733" alt="Vim icon" />
+  <img loading="lazy" height="40" width="40" title="VS Code" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual studio code icon" />
+  <img loading="lazy" height="40" width="40" title="Puppet" src="https://cdn.simpleicons.org/puppet/FFAE1A" alt="Puppet icon" />
+  <img loading="lazy" height="40" width="40" title="Bash" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash Shell icon" />
   <img loading="lazy" height="40" width="40" title="C" src="https://cdn.simpleicons.org/c/A8B9CC" alt="C icon" />
   <img loading="lazy" height="40" width="40" title="C++" src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++ icon" />
+  <img loading="lazy" height="40" width="40" title="Arduino" src="https://cdn.simpleicons.org/arduino/00878F" alt="Arduino icon" />
   <img loading="lazy" height="40" width="40" title="Git" src="https://cdn.simpleicons.org/git/F05032" alt="Git icon" />
   <img loading="lazy" height="40" width="40" title="GitHub" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub icon" />
+  <img loading="lazy" height="40" width="40" title="Python" src="https://cdn.simpleicons.org/python/3776AB" alt="Python icon" />
+  <img loading="lazy" height="40" width="40" title="Flask" src="https://cdn.simpleicons.org/flask/FFFFFF" alt="Flask icon" />
+  <img loading="lazy" height="40" width="40" title="MySQL" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL icon" />
+  <img loading="lazy" height="40" width="40" title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript icon" />
   <img loading="lazy" height="40" width="40" title="Json" src="https://cdn.simpleicons.org/json/FFFFFF" alt="JSON icon" />
   <img loading="lazy" height="40" width="40" title="Jquery" src="https://cdn.simpleicons.org/jquery/0769AD" alt="JQuery icon" />
+  <img loading="lazy" height="40" width="40" title="TypeScript" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript icon"/>
+  <img loading="lazy" height="40" width="40" title="React" src="https://cdn.simpleicons.org/react/61DAFB" alt="React icon" />
+  <img loading="lazy" height="40" width="40" title="NodeJS" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="NodeJS icon" />
   <img loading="lazy" height="40" width="40" title="Nginx" src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx icon" />
   <img loading="lazy" height="40" width="40" title="Certbot" src="https://cdn.simpleicons.org/letsencrypt/003A70" alt="Lets encrypt icon" />
   <img loading="lazy" height="40" width="40" title="Digital Ocean" src="https://cdn.simpleicons.org/digitalocean/0080FF" alt="DigitalOcean icon" />
   <img loading="lazy" height="40" width="40" title="Namecheap" src="https://cdn.simpleicons.org/namecheap/DE3723" alt="NameCheap icon" />
-  <img loading="lazy" height="40" width="40" title="Arduino" src="https://cdn.simpleicons.org/arduino/00878F" alt="Arduino icon" />
-  <img loading="lazy" height="40" width="40" title="Flask" src="https://cdn.simpleicons.org/flask/FFFFFF" alt="Flask icon" />
-  <img loading="lazy" height="40" width="40" title="Vim" src="https://cdn.simpleicons.org/vim/019733" alt="Vim icon" />
-  <img loading="lazy" height="40" width="40" title="VS Code" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual studio code icon" />
-  <img loading="lazy" height="40" width="40" title="TypeScript" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript icon"/>
-  <img loading="lazy" height="40" width="40" title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript icon" />
-  <img loading="lazy" height="40" width="40" title="React" src="https://cdn.simpleicons.org/react/61DAFB" alt="React icon" />
-  <img loading="lazy" height="40" width="40" title="NodeJS" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="NodeJS icon" />
-  <img loading="lazy" height="40" width="40" title="Python" src="https://cdn.simpleicons.org/python/3776AB" alt="Python icon" />
-  <img loading="lazy" height="40" width="40" title="MySQL" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL icon" />
-  <img loading="lazy" height="40" width="40" title="Puppet" src="https://cdn.simpleicons.org/puppet/FFAE1A" alt="Puppet icon" />
-  <img loading="lazy" height="40" width="40" title="Bash" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash Shell icon" />
+  <img loading="lazy" height="40" width="40" title="Google Search Console" src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" alt="Search Console" />
   <img loading="lazy" height="40" width="40" title="Bootstrap" src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap icon" />
   <img loading="lazy" height="40" width="40" title="Html" src="https://cdn.simpleicons.org/html5/E34F26" alt="html5 icon" />
   <img loading="lazy" height="40" width="40" title="CSS" src="https://cdn.simpleicons.org/css3/1572B6" alt="css3 icon" />
