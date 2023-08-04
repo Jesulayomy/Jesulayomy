@@ -52,15 +52,19 @@
   <img loading="lazy" height="40" width="40" title="Markdown" src="https://cdn.simpleicons.org/markdown/7952B3" alt="markdown icon" />
 </div>
 
+<br />
+<br />
+
 <div align="center">
-  <h2 style="text-color: #7F5AF0">About Me</h2>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=comic+sans+ms&size=28&duration=2000&pause=10000&color=7F5AF0&center=true&width=435&lines=About" alt="About" />
+
 </div>
 
-- :eyes: I'm interested in Software development and electrical engineering
-- :octocat: I’m currently learning Software engineering [@alx-africa](https://www.alxafrica.com)
-- :revolving_hearts: I'm looking to collaborate on open source projects and backend application developnet  
-- :school: My latest Project, [SCHub](https://www.schub.me/explore) / [Repo](https://github.com/micloiser/SCHub)
-
+- :brain: I'm interested in Software development and electrical engineering
+- 🌱 I’m currently learning Software engineering [@alx-africa](https://www.alxafrica.com)
+- 👯 I'm looking to collaborate on open source projects and backend application developnet  
+- ⚡ My latest Project, [SCHub](https://www.schub.me/explore) / [Repo](https://github.com/micloiser/SCHub)
 
 
 <div align="center">
@@ -77,32 +81,98 @@
 
 
 <div align="center">
-  
-  ![https://twitter.com/Jesulayomi11](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJesulayomi11)   
-
-</div>
-
-<div align="center">
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 </div>
 
-<details>
-  <summary> Hello World </summary>
-</details>
+<br />
+<br />
 
 <details>
-  <summary> Hello World </summary>
+  <summary> Contacts </summary>
+
+<br />
+
+<div>
+
+  <a href="https://www.linkedin.com/in/jesulayomi-aina-27389524a/" target="_blank" title="LinkedIn">
+    <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn icon" />
+  </a>
+  
+  <a href="https://jesulayomi.medium.com" title="Medium">
+    <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/medium/FFFFFF" alt="Medium icon" />
+  </a>
+  
+  <a href="https://twitter.com/jesulayomi11" target="_blank" title="Twitter">
+    <img loading="lazy" height="40" width="40" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="Twitter icon" />
+  </a>
+  
+  <a href="https://www.jesulayomy.tech" target="_blank" title="Website">
+    <img loading="lazy" height="40" width="40" src="https://www.schub.me/favicon.ico" alt="Website icon" />
+  </a>
+  
+  <a href="mailto:jesulayomi081@gmail.com" target="_blank" title="Email me">
+    <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail icon" />
+  </a>
+
+</div>
+  
 </details>
 
-<details>
-  <summary> Hello World </summary>
-</details>
 
 <details>
-  <summary> Hello World </summary>
+  <summary> Projects </summary>
+<br />
+
+| Name | Description | Technologies |
+| ---- | ----------- | ------------ |
+| [SCHub](https://github.com/jesulayomy/SCHub/) | Institutional data Management web application | <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" /> <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=nodedotjs&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" /> <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" /> |  
+| [AirBnB_Clone](https://github.com/jesulayomy/AirBnB_clone_v4/) | An airbnb clone posessing a console, api and dbms on a server | <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" /> |  
+| [Simple Shell](https://github.com/jesulayomy/simple_shell/) | A project using os functions with C to create a shell application with some commands | <img alt="C" src="https://img.shields.io/badge/-C-16161A?style=flat-square&logo=c&logoColor=white" /> <img alt="Bash" src="https://img.shields.io/badge/-Bash-00BF63?style=flat-square&logo=gnubash&logoColor=white" /> <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> |
+| [Calculator](https://github.com/jesulayomy/calculator) | A Calculator console application for performing basic and medium functions | <img alt="C" src="https://img.shields.io/badge/-C-16161A?style=flat-square&logo=c&logoColor=white" /> <img alt="Bash" src="https://img.shields.io/badge/-Bash-00BF63?style=flat-square&logo=gnubash&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> |
+
 </details>
+
+
+<details>
+  <summary> Blog Posts </summary>
+
+<br />
+  
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/pulse/schub-project-jesulayomi-aina">
+        <img width="300px" src="https://media.licdn.com/dms/image/D4D12AQHrBIcsNXjMlg/article-cover_image-shrink_423_752/0/1689339768411?e=1696464000&v=beta&t=4NO_WXqxj1vgDzjHtpZ1MBzziLSE9MggHCuPfTuZqrI">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/pulse/schub-project-jesulayomi-aina">SCHub on LinkedIn</a>
+      <br/>
+      Jul 2023
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <a href="https://jesulayomi.medium.com/web-stack-debugging-1-a-postmortem-74fe5b1a791d">
+        <img width="300px" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UY8t6kDU5Q1fRgdUIbmj7A.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://jesulayomi.medium.com/web-stack-debugging-1-a-postmortem-74fe5b1a791d">
+        Webstack Debugging: A Postmortem
+      </a>
+      <br/>
+      June 2023
+    </td>
+  </tr>
+</table>
+
+</details>
+
 
 <!---
 Jesulayomy/Jesulayomy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
