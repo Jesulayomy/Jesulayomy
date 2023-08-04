@@ -173,6 +173,7 @@
 
 </details>
 
+![Snake animation](https://github.com/Jesulayomy/Jesulayomy/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Jesulayomy/Jesulayomy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
