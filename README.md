@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ![Follower Count](https://img.shields.io/github/followers/jesulayomy?label=Followed+By&labelColor=16161A&color=7F5AF0) ![Visitors](https://visitcount.itsvg.in/api?id=Jesulayomy&label=Profile%20Views&color=1&pretty=false) ![GitHub User's stars](https://img.shields.io/github/stars/Jesulayomy?label=GitHub+Stars&labelColor=16161A&color=7F5AF0) 
+  ![Follower Count](https://img.shields.io/github/followers/jesulayomy?label=Followed+By&labelColor=16161A&color=7F5AF0) ![Visitors](https://visitcount.itsvg.in/api?id=Jesulayomy&label=Profile%20Views&color=1&pretty=false) [![wakatime](https://wakatime.com/badge/user/b8e39aba-c0ac-4d35-a6c9-bd0aa824e50e.svg?style=plastic&labelColor=16161A&color=7F5AF0)](https://wakatime.com/@b8e39aba-c0ac-4d35-a6c9-bd0aa824e50e) ![GitHub User's stars](https://img.shields.io/github/stars/Jesulayomy?label=GitHub+Stars&labelColor=16161A&color=7F5AF0)  
 
 </div>
 
@@ -75,6 +75,8 @@
 
 
 <div align="center">
+  <a href="https://github.com/Jesulayomy"><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jesulayomy&stroke=ffffff&background=000000&ring=7F5AF0&fire=7F5AF0&currStreakNum=ffffff&currStreakLabel=7F5AF0&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"></a>
+  <br />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jesulayomy&show_icons=true&theme=midnight-purple" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesulayomy&langs_count=8&theme=midnight-purple&layout=compact&card_width=320" />
 </div>
