@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ![Follower Count](https://img.shields.io/github/followers/jesulayomy?label=Followed+By&labelColor=16161A&color=7F5AF0) ![Visitors](https://visitcount.itsvg.in/api?id=Jesulayomy&label=Profile%20Views&color=1&pretty=false) [![wakatime](https://wakatime.com/badge/user/b8e39aba-c0ac-4d35-a6c9-bd0aa824e50e.svg?style=plastic&labelColor=16161A&color=7F5AF0)](https://wakatime.com/@b8e39aba-c0ac-4d35-a6c9-bd0aa824e50e) ![GitHub User's stars](https://img.shields.io/github/stars/Jesulayomy?label=GitHub+Stars&labelColor=16161A&color=7F5AF0)  
+  ![Visitors](https://visitcount.itsvg.in/api?id=Jesulayomy&label=Profile%20Views&color=1&pretty=false) [![wakatime](https://wakatime.com/badge/user/b8e39aba-c0ac-4d35-a6c9-bd0aa824e50e.svg?style=plastic&labelColor=16161A&color=7F5AF0)](https://wakatime.com/@b8e39aba-c0ac-4d35-a6c9-bd0aa824e50e)  
 
 </div>
 
@@ -61,8 +61,8 @@
 
 </div>
 
-- :brain: I'm interested in Software development and electrical engineering
-- 🌱 I’m currently learning Software engineering [@alx-africa](https://www.alxafrica.com)
+- :brain: I'm interested in Fullstack Software development and electrical engineering
+- 🌱 I’m studied Software engineering [@alx-africa](https://www.alxafrica.com). [Certificate](https://intranet.alxswe.com/certificates/fhLe8NXcZH)
 - 👯 I'm looking to collaborate on open source projects and backend application development ([Resume](https://drive.google.com/file/d/1g7nKuVH2v1ST59YTiUDpVsKtqJ8uQEU7/view?usp=sharing))  
 - ⚡ My latest Project, [SCHub](https://www.schub.me/explore) / [Repo](https://github.com/micloiser/SCHub)
 
@@ -111,7 +111,7 @@
   </a>
   
   <a href="https://www.jesulayomy.tech" target="_blank" title="Website">
-    <img loading="lazy" height="40" width="40" src="https://www.schub.me/favicon.ico" alt="Website icon" />
+    <img loading="lazy" height="40" width="50" src="https://github.com/micoliser/SCHub/blob/main/landing_page/images/main-roof.png?raw=true" alt="Website icon" />
   </a>
   
   <a href="mailto:jesulayomi081@gmail.com" target="_blank" title="Email me">
@@ -146,7 +146,7 @@
   <tr>
     <td>
       <a href="https://www.linkedin.com/pulse/schub-project-jesulayomi-aina">
-        <img width="300px" src="https://media.licdn.com/dms/image/D4D12AQHrBIcsNXjMlg/article-cover_image-shrink_423_752/0/1689339768411?e=1696464000&v=beta&t=4NO_WXqxj1vgDzjHtpZ1MBzziLSE9MggHCuPfTuZqrI">
+        <img width="300px" src="https://github.com/micoliser/SCHub/blob/main/landing_page/images/SCHub-removebg-preview.png?raw=true">
       </a>
     </td>
     <td>
@@ -174,8 +174,6 @@
 </table>
 
 </details>
-
-![Snake animation](https://github.com/Jesulayomy/Jesulayomy/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Jesulayomy/Jesulayomy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
