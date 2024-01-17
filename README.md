@@ -175,6 +175,13 @@
 
 </details>
 
+
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=comic+sans+ms&size=12&duration=2000&pause=10000&color=7F5AF0&width=435&lines=👋+Thanks+for+stopping+by" alt="👋 Hi, I'm Jesulayomi Aina" />
+</div>
+
+![snake gif](https://github.com/Jesulayomy/Jesulayomy/blob/output/github-contribution-grid-snake-dark.svg)
+
 <!---
 Jesulayomy/Jesulayomy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
