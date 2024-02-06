@@ -24,6 +24,8 @@
 
 <div align="center">
   <img loading="lazy" height="40" width="40" title="Vim" src="https://cdn.simpleicons.org/vim/019733" alt="Vim icon" />
+  <img loading="lazy" height="40" width="40" title="Django" src="https://cdn.simpleicons.org/django/092E20" alt="Django icon" />
+  <img loading="lazy" height="40" width="40" title="NextJS" src="https://cdn.simpleicons.org/nextdotjs/000000" alt="NextJS icon" />
   <img loading="lazy" height="40" width="40" title="VS Code" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual studio code icon" />
   <img loading="lazy" height="40" width="40" title="Puppet" src="https://cdn.simpleicons.org/puppet/FFAE1A" alt="Puppet icon" />
   <img loading="lazy" height="40" width="40" title="Bash" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash Shell icon" />
