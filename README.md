@@ -94,7 +94,7 @@
 <br />
 
 <details>
-  <summary> Contacts </summary>
+  <summary> Contact Information </summary>
 
 <br />
 
