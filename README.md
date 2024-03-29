@@ -64,7 +64,7 @@
 </div>
 
 - :brain: I'm interested in Fullstack Software development and Electrical engineering
-- 🌱 I studied Electrical Electronics Engineering @FUNAAB, and Software Engineering [@alx-africa](https://www.alxafrica.com). [Certificate](https://intranet.alxswe.com/certificates/fhLe8NXcZH)
+- 🌱 I studied Electrical Electronics Engineering at the Federal University of Agriculture Abeokuta, and Software Engineering [@alx-africa](https://www.alxafrica.com). [Certificate](https://intranet.alxswe.com/certificates/fhLe8NXcZH)
 - 👯 I'm looking to collaborate on open source projects and backend application development ([Resume](https://drive.google.com/file/d/1g7nKuVH2v1ST59YTiUDpVsKtqJ8uQEU7/view?usp=sharing))  
 - ⚡ My latest Project for NUESA FUNAAB, [Coleng-Frontend](https://www.nuesafunaab.com.ng/) / [Repository](https://github.com/Jesulayomy/Coleng-Frontend/tree/resources)  
 
