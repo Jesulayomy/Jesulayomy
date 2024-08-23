@@ -11,7 +11,7 @@ export default function NotFound() {
 
   return (
     <div className="flex flex-col items-center text-center justify-center p-24">
-      <p className='py-10'>I'm Pretty sure you're lost, Zoro.</p>
+      <p className='py-10'>I&apos;m Pretty sure you&apos;re lost, Zoro.</p>
       <MotionLink
         href="/"
         className="

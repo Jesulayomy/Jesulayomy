@@ -24,7 +24,7 @@ export default function About() {
       }}
     >
       <div className='md:text-2xl text-xl font-medium'>
-        I'm <span className='text-3xl md:text-4xl text-purple-500 text-shadow-sm shadow-red-500/75'>Jesulayomi Aina,</span>
+        I&apos;m <span className='text-3xl md:text-4xl text-purple-500 text-shadow-sm shadow-red-500/75'>Jesulayomi Aina,</span>
       </div>
       <div className='xl:text-5xl md:text-4xl text-3xl font-medium flex flex-wrap gap-x-2 text-green-500 text-shadow shadow-green-500/75'>
         <div><span className='xl:text-2xl md:text-xl text-base text-white text-shadow-none'>a</span> Software Engineer,</div>

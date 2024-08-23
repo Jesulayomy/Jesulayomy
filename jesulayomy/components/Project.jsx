@@ -122,7 +122,7 @@ export default function Project({ project }) {
               </motion.a>
             </div>
             <div className="mx-auto object-fill group-hover:translate-y-1 shadow-xl shadow-black translate-y-6 transition-all duration-500 w-[86%] mt-6 md:mt-10">
-              <img className='mx-auto' src={project.image} />
+              <Image className='mx-auto w-[100%] h-[100%]' alt={project.title} src={project.image} width={1920} height={1080} />
             </div>
           </div>
         </div>

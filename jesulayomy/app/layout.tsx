@@ -42,7 +42,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <head><script src="https://kit.fontawesome.com/3f2dbd4340.js" crossOrigin="anonymous"></script></head>
       <body className={inter.className}>
         <NavBar />
         <main className="flex min-h-screen flex-col items-center justify-center px-6 py-24 sm:px-24">
