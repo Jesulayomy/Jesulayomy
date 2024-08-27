@@ -2,6 +2,7 @@
 
 import {motion} from 'framer-motion';
 import Image from 'next/image';
+import Link from 'next/link';
 
 import icons from '@/lib/icons';
 
@@ -32,8 +33,9 @@ export default function Contacts({ contacts }) {
       <div className='flex flex-row flex-wrap md:flex-col gap-2 pt-2'>
         {Object.entries(contacts).map(([contact, url], index) => (
           <div key={index} className='flex flex-row items-center'>
-            <div
-            className='
+            <Link
+              href={url}
+              className='
               flex flex-row gap-4
               items-center p-2 md:px-4
               border border-zinc-600 rounded-xl
@@ -52,7 +54,7 @@ export default function Contacts({ contacts }) {
               <div className='px-1 text-lg'>
                 {contact}
               </div>
-            </div>
+            </Link>
           </div>
         ))}
       </div>
