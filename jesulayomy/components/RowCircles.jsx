@@ -13,7 +13,7 @@ const RowCircles = ({ techs }) => {
     borderRadius: '50%',
     border: '1px solid #4B5563',
   };
-  
+
   const iconRowVariants = {
     hideRowIcons: (index) => ({
       x: -100,

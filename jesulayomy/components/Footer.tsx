@@ -12,6 +12,7 @@ export default function Footer() {
     "LinkedIn Link": "https://www.linkedin.com/in/jesulayomi/",
     "Gmail Link": "mailto:jesulayomi081@gmail.com",
     "Resume": "/Aina Jesulayomi Resume.pdf",
+    "Calendly": "https://calendly.com/jesulayomi",
   };
   const hoverVariants = {
     normal: {
@@ -19,7 +20,6 @@ export default function Footer() {
     },
     lift: {
       scale: 1.2,
-      // A semi-transparent border to make the icon pop
       border: '5px solid rgba(255, 255, 255, 0.1)',
     },
   }

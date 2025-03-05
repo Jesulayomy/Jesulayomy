@@ -21,7 +21,7 @@ export default function HeadShot() {
       }}
     >
       <Image
-        src={"/JesulayomiA.png"}
+        src={"/JesulayomiAina.png"}
         width={300}
         height={400}
         className='object-contain rounded-xl'

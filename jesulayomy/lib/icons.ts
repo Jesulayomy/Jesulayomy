@@ -44,6 +44,10 @@ const icons: { [key: string]: string} = {
   "notion": "https://cdn.simpleicons.org/notion?viewbox=auto",
   "sql": "https://cdn.simpleicons.org/mysql?viewbox=auto",
   "whatsapp": "https://cdn.simpleicons.org/whatsapp?viewbox=auto",
+  "amazonwebservices": "https://cdn.simpleicons.org/amazonwebservices?viewbox=auto",
+  "calendly": "https://cdn.simpleicons.org/calendly?viewbox=auto",
+  "redis": "https://cdn.simpleicons.org/redis?viewbox=auto",
+  "netlify": "https://cdn.simpleicons.org/netlify?viewbox=auto",
 }
 
 export default icons;

@@ -8,7 +8,7 @@ import { useRouter } from 'next/navigation';
 
 export default function About() {
   const techs = [
-    'Python', 'Django', 'Flask', 'Javascript', 'React', 'Next', 'MySQL', 'Github', 'Github Actions', 'Postman'
+    'Python', 'Django', 'Flask', 'Javascript', 'React', 'Next', 'Nodejs', 'MySQL', 'Amazon Web Services', 'Github', 'Github Actions', 'Postman'
   ];
   const navigate = useRouter();
 
@@ -30,7 +30,7 @@ export default function About() {
         <div><span className='xl:text-2xl md:text-xl text-base text-white text-shadow-none'>a</span> Software Engineer,</div>
       </div>
       <div className='text-yellow-500 text-lg pt-2'>
-        and I use . . .
+        and I build software, web applications and websites using a mix of these . . .
       </div>
       <RowCircles techs={techs} />
       <div className='text-white flex text-base pt-5 items-center justify-center'>

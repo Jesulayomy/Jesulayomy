@@ -3,8 +3,8 @@ const technologies = {
   'Frontend': ['React', 'Next', 'Bootstrap', 'HTML', 'TailwindCSS', 'CSS'],
   'Backend': ['Flask', 'Django', 'Express', 'FastAPI', 'NodeJS'],
   'DevOps': ['Nginx', 'Github Actions', 'Postman', 'Git', 'GitHub'],
-  'Databases': ['MySQL', 'MongoDB'],
-  'Cloud': ['DigitalOcean', 'NameCheap'],
+  'Databases': ['MySQL', 'MongoDB', 'Redis'],
+  'Cloud': ['DigitalOcean', 'NameCheap', 'Amazon Web Services', 'Netlify'],
   'Tools': ['Swagger', 'Trello', 'Linux', 'Notion'],
 };
 

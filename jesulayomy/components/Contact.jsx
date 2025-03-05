@@ -43,6 +43,7 @@ export default function Contacts({ contacts }) {
               hover:from-zinc-900 hover:to-zinc-700
               transition-all duration-300 ease-in-out
               '
+              target='_blank'
             >
               <Image
                 src={`${icons[contact.toLowerCase()] || icons['default']}`}

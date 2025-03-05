@@ -1,5 +1,16 @@
 const experiences = [
   {
+    type: 'Full-time',
+    location: 'Boston MA',
+    role: 'Software Engineer',
+    company: 'Resilient Coders',
+    duration: 'January 2025 - Present',
+    tasks: [
+      'Rebuilt client websites with accessibility, SOC and SEO concerns, producing responsive pages for their users',
+    ],
+    tech: ['JavaScript', 'React', 'Nodejs', 'HTML', 'CSS'],
+  },
+  {
     type: 'Contract',
     location: 'Remote',
     role: 'Software Engineer',
@@ -29,39 +40,19 @@ const experiences = [
   {
     type: 'Volunteer',
     location: 'Remote',
-    role: 'Full-Stack Developer',
+    role: 'Sofftware Engineer',
     company: 'NUESA FUNAAB',
-    duration: 'Jan 2024 - Apr 2024',
+    duration: 'Aug 2023 - Apr 2024',
     tasks: [
       'Integrated Django-REST API with existing Next application resources, resulting in a full-stack application for use by over 1200 students.',
-      'Performed code review and completely refactored over 8000 lines of code to conform to clean, readable, and DRY code.'
-    ],
-    tech: ['Next', 'Django']
-  },
-  {
-    type: 'Volunteer',
-    location: 'Remote, Abeokuta',
-    role: 'Back-end Developer - Demetrius',
-    company: 'NUESA FUNAAB',
-    duration: 'Oct 2023 - Jan 2024',
-    tasks: [
+      'Performed code review and completely refactored over 8000 lines of code to conform to clean, readable, and DRY code.',
       'Implemented RESTful API to serve data of more than 700 books with over 2.7GB total file size through Google’s Drive API.',
-      'Applied Drive API user authentication by using Google OAuth scopes to allow read and write access to the required books Drive folder.'
-    ],
-    tech: ['Django', 'MySQL', 'Drive']
-  },
-  {
-    type: 'Volunteer',
-    location: 'Hybrid, Abeokuta',
-    role: 'Back-end Developer - Let\'s Attend Backend',
-    company: 'NUESA FUNAAB',
-    duration: 'Aug 2023 - Nov 2023',
-    tasks: [
+      'Applied Drive API user authentication by using Google OAuth scopes to allow read and write access to the required books Drive folder.',
       'Created the backend Restful API for an Event Management web application using Flask.',
       'Developed authentication and Rest API views to support event management features.',
       'Wrote comprehensive documentation using flasgger and established community guidelines for contributors.'
     ],
-    tech: ['Flask', 'swagger']
+    tech: ['Next', 'Django']
   },
 ];
 

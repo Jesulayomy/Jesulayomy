@@ -8,7 +8,8 @@ export default function page() {
     "Github": "https://github.com/Jesulayomy",
     "Linkedin": "https://www.linkedin.com/in/jesulayomi/",
     "Gmail": "mailto:jesulayomi081@gmail.com",
-    "WhatsApp": "https://wa.me/2348124951459"
+    "WhatsApp": "https://wa.me/19298329086",
+    "Calendly": "https://calendly.com/jesulayomi",
   }
   return (
     <div className='flex flex-col w-full items-center'>
