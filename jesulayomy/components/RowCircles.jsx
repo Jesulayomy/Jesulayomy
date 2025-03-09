@@ -69,7 +69,7 @@ const RowCircles = ({ techs }) => {
             style={{
               'position': 'absolute',
               'top': '-25px',
-              'text-wrap': 'nowrap'
+              'textWrap': 'nowrap'
             }}
           >{name}
           </motion.span>

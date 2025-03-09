@@ -9,10 +9,16 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: {
-    default: "Jesulayomi Aina",
-    template: `%s | Jesulayomi Aina`,
+    default: "Jesulayomi Michael Aina",
+    template: `%s | Jesulayomi Michael Aina`,
   },
-  description: "Jesulayomi is a software engineer, building full-stack systems and applications.",
+  description: "Jesulayomi is a software engineer, building full-stack software and web applications. Contact via email or LinkedIn for any requests.",
+  applicationName: "Jesulayomi Michael Aina\'s Portfolio website",
+  authors: [{
+    name: "Jesulayomi Michael Aina",
+    url: "https://www.jesulayomi.tech",
+  }],
+  generator: "Next.js",
   keywords: [
     'portfolio', 'devops', 'backend', 'software', 'engineer', 'showcase',
     'programming', 'projects', 'aina', 'jesulayomi', 'about', 'skills',
@@ -22,16 +28,33 @@ export const metadata: Metadata = {
     'jinja', 'jquery', 'markdown', 'ubuntu', 'focal', 'get.tech', 'namecheap',
     'schub', 'nextjs', 'framer-motion', 'tailwindcss', 'typescript',
   ],
-  authors: [{
-    name: "Jesulayomi Aina",
-    url: "https://www.jesulayomi.tech",
-  }],
-  creator: "Jesulayomi Aina",
+  creator: "Jesulayomi Michael Aina",
+  publisher: "Jesulayomi Michael Aina",
+  robots: {
+    index: true,
+    follow: true,
+  },
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",
   },
-
+  openGraph: {
+    type: 'profile',
+    title: 'Jesulayomi Michael Aina\'s Portfolio website.',
+    description: 'Jesulayomi Michael Aina is a software engineer specializing in web application development in all stages of the Software development life cycle',
+    url: 'https://jesulayomi.tech/',
+    siteName: 'Jesulayomi Michael Aina',
+    images: [{
+      url: '/JesulayomiAina.png'
+    }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    site: "@site",
+    creator: "@creator",
+    "images": "https://example.com/og.png"
+  },
+  metadataBase: new URL("https://www.jesulayomi.tech")
 };
 
 
