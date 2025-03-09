@@ -1,7 +1,7 @@
 const icons: { [key: string]: string} = {
-  "default": "https://cdn.simpleicons.org/shell?viewbox=auto",
+  "default": "https://cdn.simpleicons.org/headspace?viewbox=auto",
   "github": "https://cdn.simpleicons.org/github?viewbox=auto",
-  "linkedin": "https://cdn.simpleicons.org/linkedin?viewbox=auto",
+  "linkedin": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png",
   "gmail": "https://cdn.simpleicons.org/gmail?viewbox=auto",
   "flask": "https://cdn.simpleicons.org/flask?viewbox=auto",
   "mysql": "https://cdn.simpleicons.org/mysql?viewbox=auto",
@@ -30,10 +30,10 @@ const icons: { [key: string]: string} = {
   "bootstrap": "https://cdn.simpleicons.org/bootstrap?viewbox=auto",
   "bash": "https://cdn.simpleicons.org/gnubash?viewbox=auto",
   "medium": "https://cdn.simpleicons.org/medium?viewbox=auto",
-  "github link": "https://cdn.simpleicons.org/github/242424/828282?viewbox=auto",
-  "linkedin link": "https://cdn.simpleicons.org/linkedin/_/828282?viewbox=auto",
+  "github link": "https://cdn.simpleicons.org/github/242424/ffffff?viewbox=auto",
+  "linkedin link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png",
   "gmail link": "https://cdn.simpleicons.org/gmail/_/828282?viewbox=auto",
-  "resume": "https://cdn.simpleicons.org/googledocs/_/828282?viewbox=auto",
+  "resume": "https://cdn.simpleicons.org/googledocs?viewbox=auto",
   "next": "https://cdn.simpleicons.org/nextdotjs?viewbox=auto",
   "drive": "https://cdn.simpleicons.org/googledrive?viewbox=auto",
   "c": "https://cdn.simpleicons.org/c?viewbox=auto",
@@ -44,10 +44,12 @@ const icons: { [key: string]: string} = {
   "notion": "https://cdn.simpleicons.org/notion?viewbox=auto",
   "sql": "https://cdn.simpleicons.org/mysql?viewbox=auto",
   "whatsapp": "https://cdn.simpleicons.org/whatsapp?viewbox=auto",
-  "amazonwebservices": "https://cdn.simpleicons.org/amazonwebservices?viewbox=auto",
+  "amazonwebservices": "https://cdn.simpleicons.org/amazonwebservices/_/ffffff?viewbox=auto",
   "calendly": "https://cdn.simpleicons.org/calendly?viewbox=auto",
   "redis": "https://cdn.simpleicons.org/redis?viewbox=auto",
   "netlify": "https://cdn.simpleicons.org/netlify?viewbox=auto",
+  "vercel": "https://cdn.simpleicons.org/vercel?viewbox=auto",
+  "postgresql": "https://cdn.simpleicons.org/postgresql?viewbox=auto",
 }
 
 export default icons;

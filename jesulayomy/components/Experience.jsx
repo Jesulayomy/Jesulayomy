@@ -29,7 +29,7 @@ export default function Experience() {
           Experience
         </div>
       </div>
-      <div className='flex-col flex-wrap gap-2'>
+      <div className='flex-col flex-wrap'>
         {experiences.map((exp, index) => (
           <Exp key={index} exp={exp} />
         ))}

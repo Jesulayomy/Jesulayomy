@@ -9,8 +9,8 @@ import icons from '@/lib/icons';
 export default function Footer() {
   const contacts: { [key: string]: string } = {
     "GitHub Link": "https://github.com/Jesulayomy",
-    "LinkedIn Link": "https://www.linkedin.com/in/jesulayomi/",
-    "Gmail Link": "mailto:jesulayomi081@gmail.com",
+    "LinkedIn": "https://www.linkedin.com/in/jesulayomi/",
+    "Gmail": "mailto:jesulayomi081@gmail.com",
     "Resume": "/Aina Jesulayomi Resume.pdf",
     "Calendly": "https://calendly.com/jesulayomi",
   };

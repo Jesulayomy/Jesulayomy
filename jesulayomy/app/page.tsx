@@ -15,11 +15,11 @@ import projects from '@/lib/projects';
 
 export default function Home() {
   const contacts = {
-    "Github": "https://github.com/Jesulayomy",
-    "Linkedin": "https://www.linkedin.com/in/jesulayomi/",
     "Gmail": "mailto:jesulayomi081@gmail.com",
+    "Linkedin": "https://www.linkedin.com/in/jesulayomi/",
     "WhatsApp": "https://wa.me/19298329086",
     "Calendly": "https://calendly.com/jesulayomi",
+    "Github": "https://github.com/Jesulayomy",
   }
   return (
     <section className='flex flex-row flex-wrap py-10 gap-10 justify-center' id='home'>
@@ -33,9 +33,6 @@ export default function Home() {
         </section>
         <section className='flex flex-col py-8 w-full items-center' id='skills'>
           <Skills />
-        </section>
-        <section className='flex flex-col py-8 w-full items-center' id='education'>
-          <Education />
         </section>
         <section className='flex flex-col py-8 w-full items-center' id='projects'>
           <h2 className='text-3xl lg:text-5xl p-5 font-bold text-center font-mono'>My Projects</h2>

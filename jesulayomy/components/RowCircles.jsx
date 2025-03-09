@@ -51,20 +51,26 @@ const RowCircles = ({ techs }) => {
 
   return (
     <motion.div
-      className='flex flex-wrap justify-center items-center w-full gap-4'
+      className='flex flex-wrap justify-center items-center w-full'
       initial='hideRowIcons'
       animate='visibleRowIcons'
     >
       {techs.map((name, index) => (
         <motion.div
           key={index}
-          className='flex flex-col'
+          className='flex flex-col m-1'
           initial='hideText'
           animate='visibleRowIcons'
           whileHover="showText"
+          style={{'position': 'relative'}}
         >
           <motion.span
             variants={textVariants}
+            style={{
+              'position': 'absolute',
+              'top': '-25px',
+              'text-wrap': 'nowrap'
+            }}
           >{name}
           </motion.span>
           <motion.div className='flex w-[100%] justify-center'>

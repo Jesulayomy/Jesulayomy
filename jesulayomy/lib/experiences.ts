@@ -8,7 +8,7 @@ const experiences = [
     tasks: [
       'Rebuilt client websites with accessibility, SOC and SEO concerns, producing responsive pages for their users',
     ],
-    tech: ['JavaScript', 'React', 'Nodejs', 'HTML', 'CSS'],
+    tech: ['React', 'Nodejs', 'Github'],
   },
   {
     type: 'Contract',
@@ -22,7 +22,7 @@ const experiences = [
       'Built components and pages for the frontend using React, to serve backend API resources to users.',
       'Developed models, database and RESTful API for IWanBuy web application with Flask, Sqlalchemy and MySQL.',
     ],
-    tech: ['Flask', 'React', 'MySQL', 'Postman'],
+    tech: ['Flask', 'React', 'MySQL'],
   },
   {
     type: 'Contract',
@@ -35,7 +35,7 @@ const experiences = [
       'Wrote test suites for quality code coverage by writing over 30 requests in Postman.',
       'Applied 13 successful API deployments with only 3 rollbacks, giving an 81% deployment success rate.'
     ],
-    tech: ['Python', 'Django', 'MySQL', 'Postman']
+    tech: ['Django', 'MySQL', 'Postman']
   },
   {
     type: 'Volunteer',
@@ -52,7 +52,7 @@ const experiences = [
       'Developed authentication and Rest API views to support event management features.',
       'Wrote comprehensive documentation using flasgger and established community guidelines for contributors.'
     ],
-    tech: ['Next', 'Django']
+    tech: ['Next', 'Django', 'JavaScript']
   },
 ];
 
