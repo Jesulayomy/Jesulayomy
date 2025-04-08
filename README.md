@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=comic+sans+ms&size=32&duration=2000&pause=10000&color=7F5AF0&width=435&lines=👋+Hi%2C+I'm+Jesulayomi+Aina" alt="👋 Hi, I'm Jesulayomi Aina" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=comic+sans+ms&size=32&duration=2000&pause=10000&color=7F5AF0&width=435&lines=👋+Hi%2C+I'm+Layomi" alt="👋 Hi, I'm Layomi" />
 
 </div>
 
 <div align="center">
-  
-  ![Visitors](https://visitcount.itsvg.in/api?id=Jesulayomy&label=Profile%20Views&color=1&pretty=false) [![wakatime](https://wakatime.com/badge/user/b8e39aba-c0ac-4d35-a6c9-bd0aa824e50e.svg?style=plastic&labelColor=16161A&color=7F5AF0)](https://wakatime.com/@b8e39aba-c0ac-4d35-a6c9-bd0aa824e50e)  
 
+  [![wakatime](https://wakatime.com/badge/user/b8e39aba-c0ac-4d35-a6c9-bd0aa824e50e.svg?style=plastic&labelColor=16161A&color=7F5AF0)](https://wakatime.com/@b8e39aba-c0ac-4d35-a6c9-bd0aa824e50e)   [![Codewars](https://www.codewars.com/users/Jesulayomy/badges/micro)](https://www.codewars.com/users/Jesulayomy)  ![Profile Views](https://komarev.com/ghpvc/?username=Jesulayomy&color=blueviolet&style=flat)
+  
 </div>
 
 <div align="center">
@@ -19,10 +19,37 @@
 <br />
 
 <div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=comic+sans+ms&size=28&duration=2000&pause=10000&color=7F5AF0&center=true&width=435&lines=About" alt="About" />
+
+</div>
+
+
+Hi I'm Layomi :wave:, Michael is my middle name. I'm a software engineer bringing over :three: years of full-stack engineering experience, building with ![Python](https://img.shields.io/badge/-Python-000?&logo=Python), ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) (and their frameworks ![React](https://img.shields.io/badge/-React-000?&logo=React)![Node.js](https://img.shields.io/badge/-Nodejs-000?&logo=Node.js)![Django](https://img.shields.io/badge/-Django-000?&logo=Django)), databases like ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)/![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) and deploying with ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices) and many other tools.
+
+Before software, I studied and worked in Electrical Engineering :bulb:, which solidified an understanding of how to create any idea with the tools at my disposal - a quality that continues to shine in my software experience. In my previous roles, I created software solutions for businesses in transportation, education, and retail using many languages, tools, cloud platforms, and frameworks (including Next, React, Django, Flask, Node, Express, MySQL, MongoDb, AWS, DigitalOcean, GitHub and much more).
+
+I am currently learning more on AWS, AI and exploring New York City :statue_of_liberty: ! I'm also really interested in electronics and always excited to have fun with microcontrollers!
+
+<!-- - :brain: I'm interested in Fullstack Software development and Electrical engineering
+- 🌱 I studied Electrical Electronics Engineering at the Federal University of Agriculture Abeokuta, and Software Engineering [@alx-africa](https://www.alxafrica.com). [Certificate](https://intranet.alxswe.com/certificates/fhLe8NXcZH)
+- 👯 I'm looking to collaborate on open source projects and backend application development ([Resume](https://drive.google.com/file/d/1g7nKuVH2v1ST59YTiUDpVsKtqJ8uQEU7/view?usp=sharing))  
+- ⚡ My latest Project for NUESA FUNAAB, [Coleng-Frontend](https://www.nuesafunaab.com.ng/) / [Repository](https://github.com/Jesulayomy/Coleng-Frontend/tree/resources)   -->
+
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
+</div>
+
+
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+sans+ms&size=28&duration=2000&pause=2999&color=7F5AF0&center=true&width=435&lines=Languages;Tools;Frameworks" alt="Languages, Tools and Frameworks" />
 </div>
 
 <div align="center">
+  <img loading="lazy" height="40" width="40" title="AWS" src="https://cdn.simpleicons.org/amazonwebservices/fff" alt="AWS icon" />
   <img loading="lazy" height="40" width="40" title="Vim" src="https://cdn.simpleicons.org/vim/019733" alt="Vim icon" />
   <img loading="lazy" height="40" width="40" title="Django" src="https://cdn.simpleicons.org/django/092E20" alt="Django icon" />
   <img loading="lazy" height="40" width="40" title="NextJS" src="https://cdn.simpleicons.org/nextdotjs/000000" alt="NextJS icon" />
@@ -56,18 +83,6 @@
 
 <br />
 <br />
-
-<div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=comic+sans+ms&size=28&duration=2000&pause=10000&color=7F5AF0&center=true&width=435&lines=About" alt="About" />
-
-</div>
-
-- :brain: I'm interested in Fullstack Software development and Electrical engineering
-- 🌱 I studied Electrical Electronics Engineering at the Federal University of Agriculture Abeokuta, and Software Engineering [@alx-africa](https://www.alxafrica.com). [Certificate](https://intranet.alxswe.com/certificates/fhLe8NXcZH)
-- 👯 I'm looking to collaborate on open source projects and backend application development ([Resume](https://drive.google.com/file/d/1g7nKuVH2v1ST59YTiUDpVsKtqJ8uQEU7/view?usp=sharing))  
-- ⚡ My latest Project for NUESA FUNAAB, [Coleng-Frontend](https://www.nuesafunaab.com.ng/) / [Repository](https://github.com/Jesulayomy/Coleng-Frontend/tree/resources)  
-
 
 <div align="center">
   
@@ -131,7 +146,7 @@
 
 | Name | Description | Technologies |
 | ---- | ----------- | ------------ |
-| [Coleng-Frontend](https://github.com/jesulayomy/Coleng-frontend/) | Web App for managing course files (Backend [Demetrius](https://github.com/jesulayomy/demetrius/), Frontend (Resource pages) | <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=nodedotjs&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> |  
+| [Coleng-Frontend](https://github.com/jesulayomy/Coleng-frontend/) | Web App for managing course files (Backend [Demetrius](https://github.com/jesulayomy/demetrius/)), Frontend (Resource pages) | <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=nodedotjs&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> |  
 | [SCHub](https://github.com/jesulayomy/SCHub/) | Institutional data Management web application | <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" /> <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=nodedotjs&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" /> <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" /> |  
 | [AirBnB_Clone](https://github.com/jesulayomy/AirBnB_clone_v4/) | An airbnb clone posessing a console, api and dbms on a server | <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" /> |  
 | [Simple Shell](https://github.com/jesulayomy/simple_shell/) | A project using os functions with C to create a shell application with some commands | <img alt="C" src="https://img.shields.io/badge/-C-16161A?style=flat-square&logo=c&logoColor=white" /> <img alt="Bash" src="https://img.shields.io/badge/-Bash-00BF63?style=flat-square&logo=gnubash&logoColor=white" /> <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> |
