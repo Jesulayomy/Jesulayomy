@@ -50,6 +50,8 @@ const icons: { [key: string]: string} = {
   "netlify": "https://cdn.simpleicons.org/netlify?viewbox=auto",
   "vercel": "https://cdn.simpleicons.org/vercel?viewbox=auto",
   "postgresql": "https://cdn.simpleicons.org/postgresql?viewbox=auto",
+  "ejs": "https://cdn.simpleicons.org/ejs?viewbox=auto",
+  "heroku": "https://cdn.simpleicons.org/heroku?viewbox=auto",
 }
 
 export default icons;
