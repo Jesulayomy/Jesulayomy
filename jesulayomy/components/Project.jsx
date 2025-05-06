@@ -86,40 +86,46 @@ export default function Project({ project }) {
               <span className="text-white">{project.description} </span>
             </div>
             <div className="flex flex-row justify-between">
-              <motion.a
-                whileHover={{ scale: 1.075 }}
-                whileTap={{ scale: 0.9 }}
-                target='_blank'
-                className="
-                mx-auto p-2
-                text-center text-xs sm:text-base
-                rounded-full border-2 border-zinc-600
-                hover:rounded-xl
-                group-hover:border-zinc-300/75
-                hover:bg-white hover:text-black
-                hover:font-medium
-                "
-                href={project.repo}
-              >
-                <button className="">GitHub Repo</button>
-              </motion.a>
-              <motion.a
-                whileHover={{ scale: 1.075 }}
-                whileTap={{ scale: 0.9 }}
-                target='_blank'
-                className="
-                mx-auto p-2
-                text-center text-xs sm:text-base
-                rounded-full border-2 border-zinc-600
-                hover:rounded-xl
-                group-hover:border-zinc-300/75
-                hover:bg-white hover:text-black
-                hover:font-medium
-                "
-                href={project.url}
-              >
-                <button className="">Visit Website</button>
-              </motion.a>
+              { project.repo != null ?
+                <motion.a
+                  whileHover={{ scale: 1.075 }}
+                  whileTap={{ scale: 0.9 }}
+                  target='_blank'
+                  className="
+                  mx-auto p-2
+                  text-center text-xs sm:text-base
+                  rounded-full border-2 border-zinc-600
+                  hover:rounded-xl
+                  group-hover:border-zinc-300/75
+                  hover:bg-white hover:text-black
+                  hover:font-medium
+                  "
+                  href={project.repo}
+                >
+                  GitHub Repo
+                </motion.a> :
+                <></>
+              }
+              { project.url != null ?
+                <motion.a
+                  whileHover={{ scale: 1.075 }}
+                  whileTap={{ scale: 0.9 }}
+                  target='_blank'
+                  className="
+                  mx-auto p-2
+                  text-center text-xs sm:text-base
+                  rounded-full border-2 border-zinc-600
+                  hover:rounded-xl
+                  group-hover:border-zinc-300/75
+                  hover:bg-white hover:text-black
+                  hover:font-medium
+                  "
+                  href={project.url}
+                >
+                  Visit Website
+                </motion.a> :
+                <></>
+              }
             </div>
             <div className="mx-auto object-fill group-hover:translate-y-1 shadow-xl shadow-black translate-y-6 transition-all duration-500 w-[86%] mt-6 md:mt-10">
               <Image className='mx-auto w-[100%] h-[100%]' alt={project.title} src={project.image} width={1920} height={1080} />

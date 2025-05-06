@@ -27,7 +27,7 @@ export default function Skills() {
             animation: 'glow 2s infinite'
           }}
         ></div>
-        <div className='md:text-2xl text-xl font-medium'>
+        <div className='md:text-2xl text-xl font-medium text-white'>
           Skills
         </div>
       </div>
@@ -51,11 +51,11 @@ export default function Skills() {
                     src={`${icons[subTech.toLowerCase().replaceAll(" ", "")] || icons['default']}`}
                     width={15}
                     height={15}
-                    alt={subTech}
+                    alt=""
                     // style={{ width: "auto", height: "auto" }}
                     // className='object-contain'
                   />
-                  <div key={index} className='px-1'>
+                  <div key={index} className='px-1 text-white'>
                     {subTech}
                   </div>
                 </div>

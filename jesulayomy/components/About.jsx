@@ -1,7 +1,5 @@
 "use client";
 
-import { motion } from 'framer-motion';
-
 import RowCircles from '@/components/RowCircles';
 import { useRouter } from 'next/navigation';
 
@@ -13,19 +11,12 @@ export default function About() {
   const navigate = useRouter();
 
   return (
-    <motion.div
+    <div
       className='xl:px-10 md:px-7 px-6 flex flex-col xl:gap-y-4 gap-y-2 py-7 border border-zinc-600 bg-gradient-to-b from-zinc-800 to-black rounded-2xl'
-      layout
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      transition={{
-        opacity: { ease: 'linear' },
-        layout: { duration: 0.1 }
-      }}
     >
-      <div className='md:text-2xl text-xl font-medium'>
+      <h1 className='md:text-2xl text-xl font-medium'>
         I&apos;m <span className='text-3xl md:text-4xl text-purple-500 text-shadow-sm shadow-red-500/75'>Jesulayomi Michael Aina,</span>
-      </div>
+      </h1>
       <div className='xl:text-5xl md:text-4xl text-3xl font-medium flex flex-wrap gap-x-2 text-green-500 text-shadow shadow-green-500/75'>
         <div><span className='xl:text-2xl md:text-xl text-base text-white text-shadow-none'>a</span> Software Engineer,</div>
       </div>
@@ -102,6 +93,6 @@ export default function About() {
           </button>
         </div>
       </div>
-    </motion.div>
+    </div>
   )
 };

@@ -26,7 +26,7 @@ export default function Contacts({ contacts }) {
             animation: 'glow 2s infinite'
           }}
         ></div>
-        <div className='md:text-2xl text-xl font-medium'>
+        <div className='md:text-2xl text-xl font-medium text-white'>
           Contacts
         </div>
       </div>
@@ -49,10 +49,10 @@ export default function Contacts({ contacts }) {
                 src={`${icons[contact.toLowerCase()] || icons['default']}`}
                 width={40}
                 height={40}
-                alt={contact}
+                alt=""
                 // className='object-contain w-auto h-auto'
               />
-              <div className='px-1 text-lg'>
+              <div className='px-1 text-lg text-white'>
                 {contact}
               </div>
             </Link>

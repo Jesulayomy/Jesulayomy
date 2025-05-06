@@ -187,6 +187,7 @@ export default function NavBar() {
         </AnimatePresence>
       </motion.ul>
       <button 
+        aria-label="Toggle Navigation"
         className="
         inline-flex items-center justify-center
         whitespace-nowrap text-sm font-medium

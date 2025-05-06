@@ -25,7 +25,7 @@ export default function Experience() {
             animation: 'glow 2s infinite'
           }}
         ></div>
-        <div className='md:text-2xl text-xl font-medium'>
+        <div className='md:text-2xl text-xl font-medium text-white'>
           Experience
         </div>
       </div>
