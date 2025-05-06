@@ -66,7 +66,7 @@ export default function Project({ project }) {
           <div className="flex flex-col rounded-3xl justify-center">
             <div className="justify-between items-center pt-8 md:pt-10 px-8">
               <div className="relative text-center text-4xl md:font-semibold font-[500]">
-                <span>{project.title}</span>
+                <span className="text-white">{project.title}</span>
                 <div className='absolute -right-8 -top-5 text-end border-none'>
                   {project.icon ? (
                     <Image
@@ -92,7 +92,7 @@ export default function Project({ project }) {
                   whileTap={{ scale: 0.9 }}
                   target='_blank'
                   className="
-                  mx-auto p-2
+                  mx-auto p-2 text-white
                   text-center text-xs sm:text-base
                   rounded-full border-2 border-zinc-600
                   hover:rounded-xl
@@ -112,7 +112,7 @@ export default function Project({ project }) {
                   whileTap={{ scale: 0.9 }}
                   target='_blank'
                   className="
-                  mx-auto p-2
+                  mx-auto p-2 text-white
                   text-center text-xs sm:text-base
                   rounded-full border-2 border-zinc-600
                   hover:rounded-xl

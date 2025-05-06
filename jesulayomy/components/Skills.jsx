@@ -41,7 +41,7 @@ export default function Skills() {
       >
         {Object.keys(technologies).map((tech, index) => (
           <div key={index} className='pt-6'>
-            <div key={index} className='px-2 border-b border-zinc-600 rounded-lg bg-zinc-700/25'>
+            <div key={index} className='px-2 border-b border-zinc-600 rounded-lg bg-zinc-700/25 text-white'>
               {tech}
             </div>
             <div className='flex flex-wrap gap-2 pt-2'>
