@@ -52,8 +52,7 @@ export default function Skills() {
                     width={15}
                     height={15}
                     alt=""
-                    // style={{ width: "auto", height: "auto" }}
-                    // className='object-contain'
+                    style={{ width: 15, height: 15 }}
                   />
                   <div key={index} className='px-1 text-white'>
                     {subTech}

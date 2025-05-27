@@ -6,9 +6,11 @@ const experiences = [
     company: 'Resilient Coders',
     duration: 'January 2025 - Present',
     tasks: [
-      'Rebuilt client websites with accessibility, SOC and SEO concerns, producing responsive pages for their users',
+      'Empowered users to manage shared expenses by creating PaySplit, a web application running on Express, MongoDB, and Gemini AI, reducing the average settlement time by 15% and minimizing calculation errors by 99%, by providing real-time updates through websockets, item selection, and custom payments for group expenses',
+      'Generated $40,370 in contract revenue within one week from finalized client agreements, by effectively  collaborating with a team of 25 developers, to secure various client contracts',
+      'Developed and deployed 13+ websites, applications, and software projects for clients, consistently exceeding client expectations for performance and usability, with 5 clients returning for new projects, through expertise in SEO, responsive design, and accessible coding practices across the entire software development life cycle',
     ],
-    tech: ['React', 'Nodejs', 'Github'],
+    tech: ['React', 'PostgreSQL', 'Express'],
   },
   {
     type: 'Contract',
@@ -52,7 +54,7 @@ const experiences = [
       'Developed authentication and Rest API views to support event management features.',
       'Wrote comprehensive documentation using flasgger and established community guidelines for contributors.'
     ],
-    tech: ['Next', 'Django', 'JavaScript']
+    tech: ['Next', 'Django', 'Drive']
   },
 ];
 

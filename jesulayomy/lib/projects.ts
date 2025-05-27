@@ -3,7 +3,7 @@ const projects = [
     title: 'PaySplit',
     description: 'PaySplit is an app that simplifies splitting bills among friends by allowing easy money pooling and automatic calculation of shares, including complex scenarios like tax and tips, with real-time updates for transparent and fair settlements.',
     technologies: ["Ejs", "Express", "MongoDB", "CSS", "Html", "DigitalOcean", "Heroku", "Javascript"],
-    url: null,
+    url: 'https://paysplit.jesulayomi.tech',
     repo: 'https://github.com/Jesulayomy/PaySplit',
     icon: '/paySplitIcon.png',
     image: '/paySplitImage.png',
