@@ -99,7 +99,7 @@ I am currently learning more on AWS, AI and exploring New York City :statue_of_l
     <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/calendly" alt="Calendly" />
   </a>
   
-  <a href="https://www.jesulayomy.tech" target="_blank" title="Website">
+  <a href="https://www.jesulayomi.tech" target="_blank" title="Website">
     <img loading="lazy" height="40" width="50" src="https://github.com/micoliser/SCHub/blob/main/landing_page/images/main-roof.png?raw=true" alt="Website icon" />
   </a>
   
