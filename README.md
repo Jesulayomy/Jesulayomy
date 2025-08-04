@@ -152,7 +152,7 @@ I am currently learning more on AWS, AI and exploring New York City :statue_of_l
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=Jesulayomy&stroke=ffffff&background=000000&ring=7F5AF0&fire=7F5AF0&currStreakNum=ffffff&currStreakLabel=7F5AF0&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&card_width=320&card_height=200&hide_longest_streak=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Jesulayomy&stroke=ffffff&background=000000&ring=7F5AF0&fire=7F5AF0&currStreakNum=ffffff&currStreakLabel=7F5AF0&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&card_width=320&card_height=200" alt="GitHub Streak" />
 
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesulayomy&langs_count=8&theme=midnight-purple&layout=compact&card_width=320" />
 
@@ -162,7 +162,7 @@ I am currently learning more on AWS, AI and exploring New York City :statue_of_l
 
 <div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=comic+sans+ms&size=12&duration=5000&pause=10000&color=7F5AF0&width=435&lines=👋+Thanks+for+stopping+by" alt="👋 Bye, Nice to meet you too!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=comic+sans+ms&size=12&duration=5000&pause=10000&color=7F5AF0&width=435&lines=👋+Thanks+for+stopping+by" alt="👋 Thanks for stopping by!" />
 
 </div>
 
