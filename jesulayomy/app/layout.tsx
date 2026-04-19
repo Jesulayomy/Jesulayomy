@@ -4,62 +4,103 @@ import "./globals.css";
 import NavBar from "../components/NavBar";
 import Footer from "../components/Footer";
 
-
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: {
     default: "Jesulayomi Michael Aina",
-    template: `%s | Jesulayomi Michael Aina`,
+    template: `%s | Jesulayomi Michael Aina`
   },
-  description: "Jesulayomi is a software engineer, building full-stack software and web applications. Contact via email or LinkedIn for any requests.",
+  description:
+    "Jesulayomi is a software engineer, building full-stack software and web applications. Contact via email or LinkedIn for any requests.",
   applicationName: "Jesulayomi Michael Aina\'s Portfolio website",
-  authors: [{
-    name: "Jesulayomi Michael Aina",
-    url: "https://www.jesulayomi.tech",
-  }],
+  authors: [
+    {
+      name: "Jesulayomi Michael Aina",
+      url: "https://www.jesulayomi.com"
+    }
+  ],
   generator: "Next.js",
   keywords: [
-    'portfolio', 'devops', 'backend', 'software', 'engineer', 'showcase',
-    'programming', 'projects', 'aina', 'jesulayomi', 'about', 'skills',
-    'experience', 'education', 'contact', 'alx', 'github', 'engineering',
-    'python', 'javascript', 'django', 'c', 'react', 'flask', 'mysql', 'html',
-    'digitalocean', 'shell', 'bash', 'nginx', 'haproxy', 'certbot', 'css',
-    'jinja', 'jquery', 'markdown', 'ubuntu', 'focal', 'get.tech', 'namecheap',
-    'schub', 'nextjs', 'framer-motion', 'tailwindcss', 'typescript',
+    "portfolio",
+    "devops",
+    "backend",
+    "software",
+    "engineer",
+    "showcase",
+    "programming",
+    "projects",
+    "aina",
+    "jesulayomi",
+    "about",
+    "skills",
+    "experience",
+    "education",
+    "contact",
+    "alx",
+    "github",
+    "engineering",
+    "python",
+    "javascript",
+    "django",
+    "c",
+    "react",
+    "flask",
+    "mysql",
+    "html",
+    "digitalocean",
+    "shell",
+    "bash",
+    "nginx",
+    "haproxy",
+    "certbot",
+    "css",
+    "jinja",
+    "jquery",
+    "markdown",
+    "ubuntu",
+    "focal",
+    "namecheap",
+    "schub",
+    "nextjs",
+    "framer-motion",
+    "tailwindcss",
+    "typescript"
   ],
   creator: "Jesulayomi Michael Aina",
   publisher: "Jesulayomi Michael Aina",
   robots: {
     index: true,
-    follow: true,
+    follow: true
   },
   icons: {
     icon: "/favicon.ico",
-    shortcut: "/favicon.ico",
+    shortcut: "/favicon.ico"
   },
   openGraph: {
-    type: 'profile',
-    title: 'Jesulayomi Michael Aina\'s Portfolio website.',
-    description: 'Jesulayomi Michael Aina is a software engineer specializing in web application development in all stages of the Software development life cycle',
-    url: 'https://jesulayomi.tech/',
-    siteName: 'Jesulayomi Michael Aina',
-    images: [{
-      url: '/JesulayomiAina.png'
-    }],
+    type: "profile",
+    title: "Jesulayomi Michael Aina's Portfolio website.",
+    description:
+      "Jesulayomi Michael Aina is a software engineer specializing in web application development in all stages of the Software development life cycle",
+    url: "https://jesulayomi.com/",
+    siteName: "Jesulayomi Michael Aina",
+    images: [
+      {
+        url: "/JesulayomiAina.png"
+      }
+    ]
   },
   twitter: {
     card: "summary_large_image",
     site: "@site",
     creator: "@creator",
-    "images": "https://example.com/og.png"
+    images: "https://example.com/og.png"
   },
-  metadataBase: new URL("https://www.jesulayomi.tech")
+  metadataBase: new URL("https://www.jesulayomi.com")
 };
 
-
 export default function RootLayout({
-  children,
+  children
 }: Readonly<{
   children: React.ReactNode;
 }>) {

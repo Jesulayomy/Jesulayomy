@@ -1,31 +1,30 @@
-import type { MetadataRoute } from 'next'
- 
+import type { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
-      url: 'https://jesulayomi.tech',
+      url: "https://jesulayomi.com",
       lastModified: new Date(),
-      changeFrequency: 'yearly',
-      priority: 1,
+      changeFrequency: "yearly",
+      priority: 1
     },
     {
-      url: 'https://jesulayomi.tech/career',
+      url: "https://jesulayomi.com/career",
       lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.8,
+      changeFrequency: "monthly",
+      priority: 0.8
     },
     {
-      url: 'https://jesulayomi.tech/projects',
+      url: "https://jesulayomi.com/projects",
       lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.6,
+      changeFrequency: "monthly",
+      priority: 0.6
     },
     {
-      url: 'https://jesulayomi.tech/contact',
+      url: "https://jesulayomi.com/contact",
       lastModified: new Date(),
-      changeFrequency: 'yearly',
-      priority: 0.5,
-    },
+      changeFrequency: "yearly",
+      priority: 0.5
+    }
   ];
-};
+}

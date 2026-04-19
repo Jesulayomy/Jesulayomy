@@ -2,4 +2,4 @@ User-Agent: *
 Allow: /
 Disallow: /contact
 
-Sitemap: https://jesulayomi.tech/sitemap.xml
+Sitemap: https://jesulayomi.com/sitemap.xml
