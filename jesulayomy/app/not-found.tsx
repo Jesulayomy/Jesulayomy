@@ -1,17 +1,15 @@
 "use client";
 
 import Image from "next/image";
-import Link from 'next/link';
-import { usePathname } from "next/navigation";
-import { motion, AnimatePresence } from "framer-motion";
-
+import Link from "next/link";
+import { motion } from "framer-motion";
 
 export default function NotFound() {
-  const MotionLink = motion(Link);
+  const MotionLink = motion.create(Link);
 
   return (
     <div className="flex flex-col items-center text-center justify-center p-24">
-      <p className='py-10'>I&apos;m Pretty sure you&apos;re lost, Zoro.</p>
+      <p className="py-10">I&apos;m Pretty sure you&apos;re lost, Zoro.</p>
       <MotionLink
         href="/"
         className="

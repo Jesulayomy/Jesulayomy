@@ -11,7 +11,7 @@ export default function Footer() {
     "GitHub Link": "https://github.com/Jesulayomy",
     "LinkedIn": "https://www.linkedin.com/in/jesulayomi/",
     "Gmail": "mailto:jesulayomi081@gmail.com",
-    "Resume": "/Aina Jesulayomi Resume.pdf",
+    "Resume": "https://drive.google.com/drive/folders/1OKD_GUDveD8SpG-YsmUUxADZM5LWP80o?usp=sharing",
     "Calendly": "https://calendly.com/jesulayomi",
   };
   const hoverVariants = {

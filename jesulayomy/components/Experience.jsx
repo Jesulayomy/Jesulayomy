@@ -1,7 +1,7 @@
 "use client";
 import { motion } from 'framer-motion';
 
-import Exp from '@/components/Exp';
+import CompanyExperience from '@/components/CompanyExperience';
 import experiences from '@/lib/experiences';
 
 
@@ -30,8 +30,12 @@ export default function Experience() {
         </div>
       </div>
       <div className='flex-col flex-wrap'>
-        {experiences.map((exp, index) => (
-          <Exp key={index} exp={exp} />
+        {experiences.map((company, index) => (
+          <CompanyExperience
+            key={company.company}
+            company={company}
+            isLast={index === experiences.length - 1}
+          />
         ))}
       </div>
     </motion.div>

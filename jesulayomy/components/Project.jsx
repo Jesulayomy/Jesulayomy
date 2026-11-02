@@ -75,6 +75,7 @@ export default function Project({ project }) {
                       height={70}
                       alt={`${project.title} icon`}
                       className='object-contain'
+                      style={{ width: 'auto', height: 'auto' }}
                     />
                   ) : (
                     <></>

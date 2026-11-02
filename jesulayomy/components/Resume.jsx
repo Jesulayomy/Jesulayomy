@@ -12,7 +12,7 @@ export default function Resume() {
       '
     >
       <a
-        href="/Aina Jesulayomi Resume.pdf"
+        href="https://drive.google.com/drive/folders/1OKD_GUDveD8SpG-YsmUUxADZM5LWP80o?usp=sharing"
         target='_blank' rel='noopener noreferrer'
         className='
         flex items-center cursor-pointer

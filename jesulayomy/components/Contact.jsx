@@ -50,7 +50,7 @@ export default function Contacts({ contacts }) {
                 width={40}
                 height={40}
                 alt=""
-                // className='object-contain w-auto h-auto'
+                className="h-10 w-10 shrink-0 object-contain"
               />
               <div className='px-1 text-lg text-white'>
                 {contact}

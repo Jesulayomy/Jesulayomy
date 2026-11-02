@@ -56,7 +56,8 @@ const projects = [
       "Python",
       "JavaScript"
     ],
-    url: "https://coleng-frontend.vercel.app",
+    url: "https://coleng.jesulayomi.com",
+    // url: "https://coleng-frontend.vercel.app",
     repo: "https://github.com/Jesulayomy/Coleng-Frontend",
     icon: "/nuesaIcon.png",
     image: "/nuesaImage.png",
@@ -88,7 +89,7 @@ const projects = [
       "Python",
       "Swagger"
     ],
-    url: "https://www.iwanbuy.ng",
+    url: null,
     repo: null,
     icon: null,
     image: "/iwanbuyImage.png",

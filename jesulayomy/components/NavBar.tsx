@@ -7,33 +7,32 @@ import {
   AnimatePresence,
   useMotionValue,
   useTransform,
-  MotionValue,
+  MotionValue
 } from "framer-motion";
-import { useEffect, useState } from 'react';
-import Image from 'next/image';
-import Link from 'next/link';
+import { useEffect, useState } from "react";
+import Image from "next/image";
+import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 import { cn } from "@/lib/utils";
-
 
 export default function NavBar() {
   const data = [
     {
       title: "Career",
-      link: "/career",
+      link: "/career"
     },
     {
       title: "Projects",
-      link: "/projects",
+      link: "/projects"
     },
     {
       title: "Contact",
-      link: "/contact",
+      link: "/contact"
     }
-  ]
+  ];
   const pathname = usePathname();
-  const MotionLink = motion(Link);
+  const MotionLink = motion.create(Link);
   const [showNav, setShowNav] = useState(false);
   const [hidden, setHidden] = useState(false);
 
@@ -66,7 +65,7 @@ export default function NavBar() {
 
   return (
     <motion.nav
-      className='fixed text-xs sm:text-base lg:text-xl inset-0 top-4 w-[95%] sm:w-[90%] mx-auto bg-secondary/60 font-medium flex max-sm:justify-between gap-4 px-3 z-50 max-w-7xl items-center rounded-full font-mono h-14 p-5 overflow-hidden backdrop-blur-lg hover:border-solid hover:border hover:border-white/10 '
+      className="fixed text-xs sm:text-base lg:text-xl inset-0 top-4 w-[95%] sm:w-[90%] mx-auto bg-secondary/60 font-medium flex max-sm:justify-between gap-4 px-3 z-50 max-w-7xl items-center rounded-full font-mono h-14 p-5 overflow-hidden backdrop-blur-lg hover:border-solid hover:border hover:border-white/10 "
       variants={{
         long: { maxWidth: 1216, scale: 1 },
         short: { maxWidth: 128 },
@@ -75,14 +74,14 @@ export default function NavBar() {
           borderRadius: 50,
 
           alignItems: "center",
-          transition: { delay: 0, duration: 0.3 },
+          transition: { delay: 0, duration: 0.3 }
         },
         showNav: {
           height: 200,
           borderRadius: 22,
           alignItems: "start",
-          transition: { delay: 0 },
-        },
+          transition: { delay: 0 }
+        }
       }}
       initial={"short"}
       animate={[hidden ? "short" : "long", showNav ? "showNav" : "hideNav"]}
@@ -90,7 +89,7 @@ export default function NavBar() {
         duration: 0.6,
         type: "spring",
         stiffness: 80,
-        damping: 14,
+        damping: 14
       }}
       whileHover={{ scale: 1.01 }}
     >
@@ -98,17 +97,8 @@ export default function NavBar() {
         className="min-w-[40px] min-h-[40px] rounded-full gap-2 flex items-center justify-center"
         onClick={() => setShowNav(false)}
       >
-        <MotionLink
-          className="transition-all duration-500 ease-out"
-          href="/"
-        >
-          <Image
-            src={'/logo.png'}
-            alt="Logo"
-            width={40}
-            height={40}
-            priority
-          />
+        <MotionLink className="transition-all duration-500 ease-out" href="/">
+          <Image src={"/logo.png"} alt="Logo" width={40} height={40} priority />
         </MotionLink>
       </div>
       <motion.ul
@@ -121,13 +111,13 @@ export default function NavBar() {
           hidden: {
             display: "var(--display-from, none)",
             opacity: "var(--opacity-from, 1)",
-            transition: { duration: 0.1, delay: 0 },
+            transition: { duration: 0.1, delay: 0 }
           },
           visible: {
             display: "var(--display-to, none)",
             opacity: "var(--opacity-to, 1)",
-            transition: { duration: 0.6, delay: 0.2 },
-          },
+            transition: { duration: 0.6, delay: 0.2 }
+          }
         }}
         initial={"hidden"}
         animate={["visible"]}
@@ -186,7 +176,7 @@ export default function NavBar() {
           })}
         </AnimatePresence>
       </motion.ul>
-      <button 
+      <button
         aria-label="Toggle Navigation"
         className="
         inline-flex items-center justify-center
@@ -205,19 +195,30 @@ export default function NavBar() {
         {showNav ? (
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            width="24" height="24" viewBox="0 0 24 24"
-            fill="none" stroke="currentColor"
-            strokeWidth="2" strokeLinecap="round"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
             strokeLinejoin="round"
           >
             <path d="m18 15-6-6-6 6"></path>
           </svg>
         ) : (
           <svg
-            xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-            viewBox="0 0 24 24" fill="none" stroke="currentColor"
-            strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"
-            ><path d="m6 9 6 6 6-6"></path>
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+          >
+            <path d="m6 9 6 6 6-6"></path>
           </svg>
         )}
       </button>
@@ -231,4 +232,4 @@ export default function NavBar() {
       </div> */}
     </motion.nav>
   );
-};
+}
